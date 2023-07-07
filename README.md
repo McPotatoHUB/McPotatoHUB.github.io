@@ -1,1 +1,1 @@
-# McPotatoHUB.github.io
+# mcpotatohub.github.io
